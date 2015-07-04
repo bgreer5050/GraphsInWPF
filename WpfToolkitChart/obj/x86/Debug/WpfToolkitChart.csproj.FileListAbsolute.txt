@@ -1,0 +1,16 @@
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\bin\Debug\WpfToolkitChart.exe
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\bin\Debug\WpfToolkitChart.pdb
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\bin\Debug\WPFToolkit.dll
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\bin\Debug\WPFToolkit.pdb
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.csprojResolveAssemblyReference.cache
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\MainWindow.baml
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\MainWindow.g.cs
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\App.g.cs
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart_MarkupCompile.cache
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.g.resources
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.Properties.Resources.resources
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.csproj.GenerateResource.Cache
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.exe
+C:\Temp\charts\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.pdb
